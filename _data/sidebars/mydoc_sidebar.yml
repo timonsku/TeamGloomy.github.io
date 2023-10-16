@@ -867,7 +867,11 @@ children:
       url: fly_e3_pro_pins.html
       output: web, pdf
 
-  - title: Fly-E3-Pro-v2 General Information
+  - title: Fly-E3-Pro-v3
+    output: web, pdf
+    children:
+
+    - title: Fly-E3-Pro-v2 General Information
       url: /fly_e3_prov2_general.html
       output: web, pdf
 
